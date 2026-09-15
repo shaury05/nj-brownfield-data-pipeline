@@ -42,5 +42,5 @@ This project demonstrates an end-to-end data pipeline built for environmental co
 ## 📂 Repository Structure
 * `/data` - Contains the raw NJDEP data and the final enriched CSV with coordinates.
 * `/scripts` - Contains the `geocode_brownfields.py` file used to clean data and hit the ArcGIS API.
-* `/assets` - Screenshots of the Airtable CRM setup, the ArcGIS map, and the final Constant Contact email template.
+* `/assets` - PDF exports of the geospatial ArcGIS map and the final Constant Contact email campaign.
 * `/docs` - The detailed project report PDF outlining the iterative problem-solving process.
